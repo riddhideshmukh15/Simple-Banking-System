@@ -75,7 +75,3 @@ This project was created to practice Python fundamentals such as:
 ## 👩‍💻 Author
 
 **Riddhi Deshmukh**
-
-
-
-⭐ If you like this project, consider giving the repository a star!
